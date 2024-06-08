@@ -1,6 +1,7 @@
 # CalculatorApp
 </br>
 # Task - 01 : Calculator App that can perform basic arithmetic operations
+</br>
 A simple calculator app developed during my internship at Prodigy Infotech. The app performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 # Features
@@ -11,7 +12,8 @@ A simple calculator app developed during my internship at Prodigy Infotech. The 
 # Installation
 1. Clone the Repository:
 
-git clone https://github.com/your-username/calculator-app.git
+git clone https://github.com/Sakshi-Ambekar/calculator-app.git
+</br>
 cd calculator-app
 
 2. Open in Android Studio:
